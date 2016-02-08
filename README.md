@@ -34,7 +34,7 @@ pip isntall pyproj
 
 ## Installation in Ubuntu
 
-Add PPA (not needed in 15.10 at least):
+Add PPA (not needed in 15.10):
 ```
 sudo add-apt-repository ppa:ubuntugis/ppa
 sudo apt-get update
